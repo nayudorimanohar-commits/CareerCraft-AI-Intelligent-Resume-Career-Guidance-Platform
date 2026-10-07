@@ -1,0 +1,9 @@
+# Ignore old DTPS showcase files from previous project
+dtps_*
+
+# Python & System
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+Thumbs.db
